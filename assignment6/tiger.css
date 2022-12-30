@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+}
+
+.tiger{
+    width:150px;
+    height:150px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 25px;
+    position: absolute;
+    top:100px;
+    left:100px;
+}
+.yak{
+    width: 125px;
+    height: 125px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+}
+.rhinosauraus{
+    width: 350px;
+    height: 125px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 25px;
+    left: 800px;
+}
+.elephant{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 155px;
+    left: 750px;
+}
+.fox{
+    width: 125px;
+    height: 125px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 255px;
+    left: 550px;
+}
+.lion{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 400px;
+    left: 50px; 
+}
+.giraffe{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 360px;
+    left: 230px; 
+}
+.leopard{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 450px;
+    left: 530px; 
+}
+.iguana{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 380px;
+    left: 800px;   
+}
+.tiger2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(69, 49, 26);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    position: absolute;
+    top: 450px;
+    left: 980px; 
+}

@@ -1,0 +1,51 @@
+*{
+    margin:0;
+
+}
+
+.navbar{
+    width:100vw;
+    height:10vh;
+    background-color: rgb(44, 142, 229);
+    color:white;
+    display:flex;
+    align-items: center;
+}
+span{
+    margin:0 0 0 20px;
+}
+.container .content{
+width:70vw;
+height:80vh;
+background-color: aquamarine;
+color:white;
+display:flex;
+justify-content: center;
+
+align-items: center;
+font-size:100px;
+}
+.container .aside{
+    width:30vw;
+    height:80vh;
+    background-color: rgb(243, 121, 14);
+color:white;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 40px;
+
+}
+.container{
+    display:flex;
+}
+.footer{
+    height:10vh;
+    width:100vw;
+    background-color: aqua;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}

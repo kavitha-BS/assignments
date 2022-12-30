@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+}
+.top{
+    height: 70vh;
+    width: 100%;
+    background-color: rgb(16, 225, 155);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.bottom{
+    height: 30vh;
+    width: 100%;
+    background-color: rgb(69, 128, 218);
+}
+.white{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    row-gap: 10px;
+    
+}
+.smlgreen{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(28, 176, 127);
+    border-radius: 10px;
+}
+.smlgreencontainer{
+    display: flex;
+    justify-content: space-around;
+
+}
+.largegreen{
+    height:30px ;
+    width: 150px;
+    background-color: rgb(28, 176, 127);
+    border-radius: 10px;
+
+}
+.largegreencontainer{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.bigwhite{
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    /*margin-right: 700px;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.bigwhite2{
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    /*margin-right: 500px;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.white2{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    row-gap: 10px;
+    
+}
